@@ -5,7 +5,10 @@
 </h1>
 
 <p align="justify">Sou Bacharel em Engenharia de Computação, com muita aspiração para dar continuidade na carreira da área do Software. Estou sempre procurando por novas oportunidades para aprender e crescer como Engenheiro de Software. 
-<br>Estou interessado em trabalhar em projetos que me permitam usar consolidar minhas habilidades nessa área. Aqui no GitHub, você pode encontrar meus projetos, repositórios e contribuições. Também estou sempre disposto(a) a ajudar outros desenvolvedores. Obrigado por visitar meu perfil!
+    
+<br>Estou interessado em trabalhar em projetos que me permitam usar consolidar minhas habilidades nessa área. Aqui no GitHub, você pode encontrar meus projetos, repositórios e contribuições. Também estou sempre disposto(a) a ajudar outros desenvolvedores. 
+
+<br>Obrigado por visitar meu perfil!
 
 <h3 align="left">Connect with me</h3>
 
