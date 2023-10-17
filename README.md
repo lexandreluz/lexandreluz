@@ -23,5 +23,8 @@
 
 <h3 align="left">Repository</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lexandreluz/bootcampJava)
+<!-- head -->
+<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+<div class="repo-card" data-repo="lexandreluz/bootcampJava" data-theme="dark-theme"></div>
+
 
