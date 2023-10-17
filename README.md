@@ -24,7 +24,7 @@
 <h3 align="left">Repository</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=bootcampJava)](https://github.com/lexandreluz/bootcampJava)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=projeto-glass-html5)](https://github.com/projeto-glass-html5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=projeto-glass-html5)](https://github.com/lexandreluz/projeto-glass-html5)
 
 
 
