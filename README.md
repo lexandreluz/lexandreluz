@@ -23,14 +23,10 @@
 
 <h3 align="left">Repository</h3>
 
-<!-- head -->
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/lexandreluz/bootcampJava)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/projeto-glass-html5)
 
 
-<!-- inside body, where you want to create the card -->
-<body>
-    <div class="repo-card" data-repo="lexandreluz/bootcampJava" data-theme="dark-theme"></div>
-</body>
 
 
 
