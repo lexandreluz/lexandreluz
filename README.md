@@ -25,6 +25,12 @@
 
 <!-- head -->
 <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
-<div class="repo-card" data-repo="lexandreluz/bootcampJava" data-theme="dark-theme"></div>
+
+
+<!-- inside body, where you want to create the card -->
+<div class="repo-card" data-repo="username/repository"></div>
+
+<!-- NEW: for dark theme just set data-theme attribute -->
+<div class="repo-card" data-repo="username/repository" data-theme="dark-theme"></div>
 
 
