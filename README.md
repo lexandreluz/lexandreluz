@@ -14,7 +14,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=0074BA&color:0074BA)](mailto:lexandreluz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0074BA)](https://www.linkedin.com/in/lexandreluz/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=0074BA)](https://twitter.com/lexandre)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=0074BA)](https://twitter.com/lexandreluz)
 
 <h3 align="left">GitHub Stats</h3>
 
