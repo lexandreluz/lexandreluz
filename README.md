@@ -20,12 +20,13 @@
 
 ![lexandreluz's Stats](https://github-readme-stats.vercel.app/api?username=lexandreluz&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![lexandreluz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lexandreluz&theme=dark&show_icons=true&hide_border=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lexandreluz&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lexandreluz&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <h3 align="left">Repository</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=bootcampJava)](https://github.com/lexandreluz/bootcampJava)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=projeto-glass-html5)](https://github.com/lexandreluz/projeto-glass-html5)
+
 
 
 
