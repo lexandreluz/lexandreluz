@@ -20,11 +20,13 @@
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexandreluz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0074BA&text_color=fff&border_radius=3&border_color=0074BAc&icon_color=0074BA&theme=jolly)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lexandreluz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffffff&hide=html,css&bg_color=000&text_color=fff&border_radius=3&border_color=fff&count_private=true)](https://github.com/lexandreluz/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lexandreluz1&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Repository</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=bootcampJava)](https://github.com/lexandreluz/bootcampJava)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=projeto-glass-html5)](https://github.com/lexandreluz/projeto-glass-html5)
+
 
 
 
