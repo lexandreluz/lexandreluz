@@ -14,18 +14,11 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=0074BA&color:0074BA)](mailto:lexandreluz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0074BA)](https://www.linkedin.com/in/lexandreluz/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=0074BA)](https://twitter.com/lexandreluz)
 
 <h3 align="left">GitHub Stats</h3>
-
-![lexandreluz's Stats](https://github-readme-stats.vercel.app/api?username=lexandreluz&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![lexandreluz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lexandreluz&theme=dark&show_icons=true&hide_border=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lexandreluz)](https://git.io/streak-stats)
 
-<h3 align="left">Repository</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=bootcampJava)](https://github.com/lexandreluz/bootcampJava)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexandreluz&repo=projeto-glass-html5)](https://github.com/lexandreluz/projeto-glass-html5)
 
 
 
